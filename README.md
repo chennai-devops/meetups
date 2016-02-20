@@ -14,7 +14,7 @@ Notes / Presentations / Demo code from each presentation made during Chennai Dev
 <table>
   <tr>
     <td>Date</td>
-    <td>17th January, 2016</td>
+    <td>17th February, 2016</td>
   </tr>
   <tr>
     <td>Location</td>
